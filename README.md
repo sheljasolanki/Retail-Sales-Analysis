@@ -22,20 +22,28 @@ The main questions explored were:
 ### 📊 Dashboard Preview  
 
 
-<p align="center">
-  <img src="Executive_Dashboard.png" alt="Executive Dashboard" width="75%" />
-</p>
+<h3 align="center">Executive Dashboard</h3>
 
 <p align="center">
-  <img src="store_department_insights.png" alt="Store & Department Insights" width="75%" />
+  <img width="1372" height="768" alt="Executive Dashboard" src="https://github.com/user-attachments/assets/47ce960f-2bf7-40ac-bc52-c97e0370f7cc" />
 </p>
 
-<p align="center">
-  <img src="discount_external_features.png" alt="Discount & External Features" width="75%" />
-</p>
+<h3 align="center">Store & Department Insights</h3>
 
 <p align="center">
-  <img src="time_seasonal_insights.png" alt="Time & Seasonal Insights" width="75%" />
+  <img width="1372" height="772" alt="Store & Department Insights" src="https://github.com/user-attachments/assets/f0ac5719-aef7-43dd-a794-870998aa00a3" />
+</p>
+
+<h3 align="center">Discount & External Features</h3>
+
+<p align="center">
+  <img width="1372" height="772" alt="Discount & External Features" src="https://github.com/user-attachments/assets/2780c9fa-c8f3-4a8e-a7db-0cbadf0d602c" />
+</p>
+
+<h3 align="center">Time / Seasonal Insights</h3>
+
+<p align="center">
+  <img width="1371" height="771" alt="Time / Seasonal Insights" src="https://github.com/user-attachments/assets/28468d1a-5e1e-47da-837e-3e52e1157749" />
 </p>
 
 ---
@@ -51,13 +59,13 @@ The main questions explored were:
 
 ---
 
-### 🧰 Specific Skills Demonstrated  
-- **Power BI:** DAX measures, interactive visualizations, drill-through, KPI cards  
-- **Excel:** Data cleaning, lookup functions, pivot analysis  
-- **SQL:** Joins, grouping, filtering, and metric aggregation  
-- **Analytical Skills:** Retail trend identification, performance benchmarking, pricing strategy  
-- **Storytelling:** Translating data into clear, actionable business decisions  
+### 💼 Specific Skills Demonstrated
 
+- **Power BI:** DAX measures, data modeling, interactive visualizations, drill-through, KPI cards
+- **Data Cleaning & Transformation:** Cleaned and transformed retail data using Power Query
+- **Analytical Skills:** Retail sales trend analysis, department/store performance analysis, discount and seasonal impact analysis
+- **Business Insights:** Identified sales drivers and translated findings into actionable business recommendations
+- **Data Storytelling:** Presented insights through an interactive dashboard and clear business-focused visualizations
 ---
 
 ### 📈 Results & Business Recommendations  
