@@ -44,7 +44,7 @@ The main questions explored were:
 
 | Step | Description | Tools Used |
 |------|-------------|------------|
-| Data Cleaning | Removed inconsistencies and structured store-level data for analysis | Excel, SQL |
+| Data Cleaning | Removed inconsistencies and structured store-level data for analysis | Excel |
 | Exploratory Analysis | Assessed sales distribution, discounts, and external factors | Power BI, Excel |
 | Dashboard Development | Designed interactive Power BI reports for executives and store managers | Power BI |
 | Strategic Review | Provided business recommendations based on visual insights | Power BI, Excel |
