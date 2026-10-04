@@ -192,10 +192,3 @@ This project demonstrates how **data visualization and analysis** can turn retai
 It emphasizes **Power BI storytelling**, operational understanding, and strategic insight — key capabilities for modern Business Analysts in retail.
 
 ---
-
-### 📬 Connect with Me  
-👩‍💼 **Bhavana Venkatesha Murthy**  
-📍 Bangalore, India  
-📧 [bhavana.1251@gmail.com](mailto:bhavana.1251@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/bhavana-venkatesha-murthy-2187b4322)  
-💻 [GitHub](https://github.com/bhavana1251-arch)
